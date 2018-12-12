@@ -1,0 +1,14 @@
+<html>
+
+<div> "Rails-singulariteetti" on tavallinen termi Ruby-
+työkalujen ja ympäristöjen keskuudessa. Se tarkoittaa kehitysympäristölle 
+yhteensopivuustasoa, jolla ympäristö pystyy toteuttamaan Ruby on Rails-kehyksen 
+toiminnot. Näitä kehitysympäristöjä ei ole montaa. </div>
+		      
+<div> Rubyn suunnittelun lähtökohtana on ollut käytettävyys ja tehokkuus. Kielen
+alkuperäinen suunnittelija, Yukihiro Matsumoto, onkin korostanut tätä ajatusta 
+toteamalla, että perinteinen ohjelmointitapa pyrkii selittämään asioita 
+tietokoneen ymmärtämällä tavalla huolimatta siitä, että loppujenlopuksi 
+tietokoneen tulisi ainoastaan olla laite, jonka avulla ihmiset voivat hyödyntää 
+toistensa tekemää työtä. </div> 
+</html>
