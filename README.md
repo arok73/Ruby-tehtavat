@@ -2,4 +2,4 @@
 
 Ruby-kurssin 2018 palautettavia tehtäviä.
 
-![Alt text](img/Ruby_1.png?raw=true "Ruby_code")
+![Alt text](img/Ruby_1.PNG?raw=true "Ruby_code")
